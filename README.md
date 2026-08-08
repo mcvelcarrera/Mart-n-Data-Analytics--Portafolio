@@ -12,7 +12,7 @@ GDP, unemployment, inflation, and debt data. Found weak correlation
 ### Titanic Survival Prediction (Python)
 Logistic regression predicting passenger survival from demographic and
 ticket features. Gender emerged as the strongest predictor.
-→ https://github.com/mcvelcarrera/Martin-Data-Analytics--Portafolio/blob/6434a097e94a1a9a1a819e1c058605413557aee5/Titanic_analysis.ipynb
+→ Titanic_analysis.ipynb
 
 ### Supply Chain Database Design (SQL)
 9-entity relational database for an artisanal chocolate company,
