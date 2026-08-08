@@ -7,7 +7,7 @@ Data analysis and database design projects — Python, R, SQL. Economics &amp; D
 Tested Phillips Curve and Okun's Law relationships across country-level
 GDP, unemployment, inflation, and debt data. Found weak correlation
 (r = 0.17) between unemployment and inflation.
-→ [/macro-correlations-r](./macro-correlations-r)
+→https://github.com/mcvelcarrera/Martin-Data-Analytics--Portafolio/blob/1c678a6975b002f72c99960d72cdfbbc3fc1ff2f/Macroanalysis_Report.docx
 
 ### Titanic Survival Prediction (Python)
 Logistic regression predicting passenger survival from demographic and
