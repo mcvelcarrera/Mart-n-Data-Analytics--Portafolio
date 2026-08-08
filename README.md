@@ -3,7 +3,7 @@ Data analysis and database design projects — Python, R, SQL. Economics &amp; D
 
 ## Projects
 
-### Macroeconomic Correlation Analysis (R)
+### Statistical Analysis Report (R)
 Tested Phillips Curve and Okun's Law relationships across country-level
 GDP, unemployment, inflation, and debt data. Found weak correlation
 (r = 0.17) between unemployment and inflation.
