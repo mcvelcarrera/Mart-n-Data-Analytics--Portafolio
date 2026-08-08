@@ -14,7 +14,7 @@ Logistic regression predicting passenger survival from demographic and
 ticket features. Gender emerged as the strongest predictor.
 → [/titanic-logistic-regression](./titanic-logistic-regression)
 
-### mSupply Chain Database Design (SQL)
+### Supply Chain Database Design (SQL)
 9-entity relational database for an artisanal chocolate company,
 E/R modeled and normalized to BCNF, covering cacao sourcing through
 retail sale.
