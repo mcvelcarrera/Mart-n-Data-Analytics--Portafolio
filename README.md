@@ -18,4 +18,4 @@ ticket features. Gender emerged as the strongest predictor.
 9-entity relational database for an artisanal chocolate company,
 E/R modeled and normalized to BCNF, covering cacao sourcing through
 retail sale.
-→ https://github.com/mcvelcarrera/Martin-Data-Analytics--Portafolio/blob/2a06af132bd810fd7cf00de1a70faaba358d2cf1/Proyecto%20Base%20de%20Datos.docx
+→ Proyecto Base de Datos.docx
